@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3416456.svg)](https://doi.org/10.5281/zenodo.3416456)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3416552.svg)](https://doi.org/10.5281/zenodo.3416552)
 
 # Belgrade lakes paper R-scripts
 Data and R script to accompany paper on Belgrade  lakes shoreline study
